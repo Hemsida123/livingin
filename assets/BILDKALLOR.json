@@ -1,0 +1,546 @@
+{
+  "source_website": "https://www.livingin.se/",
+  "retrieved": "2026-10-05",
+  "assets": [
+    {
+      "image_url": "https://static.wixstatic.com/media/cf8216_74f400f9675545878964f3d80feecd2c~mv2.png",
+      "sources": [
+        "https://www.livingin.se/",
+        "https://www.livingin.se/inredning",
+        "https://www.livingin.se/inredning-företag",
+        "https://www.livingin.se/textil-sömnad",
+        "https://www.livingin.se/snickeri",
+        "https://www.livingin.se/homestyling",
+        "https://www.livingin.se/kontakt",
+        "https://www.livingin.se/inspiration",
+        "https://www.livingin.se/leverantörer"
+      ],
+      "id": "logo-livingin",
+      "description": "LivingIn transparent original logo",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_f9e5e8eba45149a59b15f9660e7b3fe5~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/"
+      ],
+      "id": "textile-moodboard",
+      "description": "Colour and textile moodboard with fabric swatches",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_88212cc7722344649085857750a042b9~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/",
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "bodarna-kitchen",
+      "description": "Bodarna, Uppsala — Binova kitchen renovation",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_cadaee50ac9e42f5af51969a879dfc14~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/"
+      ],
+      "id": "conference-yellow",
+      "description": "Conference room with golden walls and patterned chairs",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_6433b6e6d7a546dea7f6312b1048ffe4~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/"
+      ],
+      "id": "sheer-curtains-detail",
+      "description": "Sheer curtains filtering sunlight",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_0e7b43c36b93488c9c054b154a80d97f~mv2.png",
+      "sources": [
+        "https://www.livingin.se/"
+      ],
+      "id": "custom-bookcase-detail",
+      "description": "Custom pale cabinetry and bookcase",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_c402a7b9dbf54b409d2f7d32c6990d28~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/"
+      ],
+      "id": "sunlit-living-room",
+      "description": "Styled living room with tall windows and warm sunlight",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_9eeaed94bde94103aecfb6fa37ab7288~mv2.png",
+      "sources": [
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "gottsundagipen-living-room",
+      "description": "Gottsundagipen, Uppsala — double-height living room",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_bbc22513a28e43338286e29a1103dbf9~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "ostermalm-music-room",
+      "description": "Östermalm, Stockholm — warm music room and textiles",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_251a088f699c4f5da45c5aaa00b1e53e~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "luthagen-dressing-room",
+      "description": "Luthagen, Uppsala — glass-partitioned dressing room",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_6da04107771841b9a3ee3bc56d9fe705~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inredning-företag"
+      ],
+      "id": "omegapoint-dining",
+      "description": "Omegapoint, Uppsala — renovated dining and social space",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_1ba5a5bb7882436d91c82f388d3cff84~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inredning-företag"
+      ],
+      "id": "syster-bror-salon",
+      "description": "Salong Syster & Bror, Uppsala — colourful hair salon",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_a232a26da4574ee594b2cbd5bf036257~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/textil-sömnad"
+      ],
+      "id": "showroom-textile-library",
+      "description": "LivingIn showroom fabric sample library",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_3c26e2a3268349c495d34ef64ad34518~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/textil-sömnad"
+      ],
+      "id": "varmlands-nation-curtains",
+      "description": "Värmlands nation, Uppsala — velvet drapery installation",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_63e6ef3ce12048feaa84e01e81c13696~mv2.png",
+      "sources": [
+        "https://www.livingin.se/textil-sömnad"
+      ],
+      "id": "sunnersta-curtains-living",
+      "description": "Sunnersta, Uppsala — sheer curtains in living room",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_2aaaef53167c495abf13a069afcd559d~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/textil-sömnad"
+      ],
+      "id": "falhagen-upholstered-bedroom",
+      "description": "Fålhagen, Uppsala — custom velvet headboard and curtains",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_53726e904097489790205bac90291824~mv2.png",
+      "sources": [
+        "https://www.livingin.se/snickeri",
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "svartbacken-built-in-desk",
+      "description": "Svartbäcken — fitted desk in a child’s room",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_63700541618e4d0ebe6ae00c6dbd32c1~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/snickeri"
+      ],
+      "id": "svartbacken-doorway-bookcase",
+      "description": "Svartbäcken — custom bookcase around doorway",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_14942cc901ed425abb84e8ad25c5643b~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-bedroom-wide",
+      "description": "Styled bedroom viewed through doorway",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_800b5457a35c43cba865afe89596c189~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-living-room",
+      "description": "Living room after partial styling with textiles and art",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_d424b3ec50024c6e889a782085e069b3~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/kontakt"
+      ],
+      "id": "uppsala-studio-exterior",
+      "description": "Building by the LivingIn studio at Östra Ågatan 31, Uppsala",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_009005853bd1413889296c6cd3fe308e~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/kontakt"
+      ],
+      "id": "johanna-bric-post",
+      "description": "Johanna Bric Post — interior designer and owner",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_dd9e97e714b74f66b928aca27b9d7601~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/kontakt"
+      ],
+      "id": "emilia-rendel",
+      "description": "Emilia “Mimmi” Rendel — interior designer and owner",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_3591397b39834413b94fa68392274275~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/kontakt"
+      ],
+      "id": "johanna-eriksson",
+      "description": "Johanna Eriksson — stylist and interior designer",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_f78b8b81464446a18ecd0067d50fb142~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/kontakt"
+      ],
+      "id": "maris-freiverts",
+      "description": "Maris Freiverts — carpenter",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_572e025176144a6e822aad845e2e70ac~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "dark-cabinetry-dining",
+      "description": "Dark built-in cabinetry and dining area, inspiration gallery",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_38f8cc33e3394325bec3bd6252c20e36~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "interior-concept-sketch",
+      "description": "Interior room concept sketch",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_776e6374766549209227145dc91ac92b~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "svartbacken-renovated-bedroom",
+      "description": "Svartbäcken, Uppsala — renovated upper-floor bedroom",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_f8d8cf2c71c3448a83338a07690c2abb~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inredning"
+      ],
+      "id": "ovre-slotts-kvanum-kitchen",
+      "description": "Övre slotts, Uppsala — traditional Kvänum kitchen",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_8811e3f00f2846dfb8782bf75e861106~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inredning-företag"
+      ],
+      "id": "conference-yellow-original",
+      "description": "Original conference room image used in business page heading",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_0868aa31d7ca4990a8f969389cc6685b~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inredning-företag"
+      ],
+      "id": "lf-bank-vault-conference",
+      "description": "Länsförsäkringars fastighetsförmedling, Uppsala — bank vault conference room",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_bffff73047d840deb5958495f418c749~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inredning-företag"
+      ],
+      "id": "specialistlakarmottagning-waiting-room",
+      "description": "Upplands Specialistläkarmottagning, Uppsala — waiting room",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_7de029939feb414895e25d952129ec13~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/textil-sömnad"
+      ],
+      "id": "gottsundagipen-curtain-installation",
+      "description": "Gottsundagipen, Uppsala — curtain installation at five-metre height",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_5f78df7a5ecf4f349e4cf6d85d1cfdc8~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/snickeri"
+      ],
+      "id": "joinery-concept-sketch",
+      "description": "Drawing for bespoke fitted cabinetry",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_459b45510847425f9202b9324ca76f09~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/snickeri"
+      ],
+      "id": "svartbacken-desk-sketch",
+      "description": "Svartbäcken — hand-drawn design for fitted desk",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_0ad1a050d0f1409cb8a8d5e4d6b28d8e~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/snickeri"
+      ],
+      "id": "svartbacken-desk-drawer",
+      "description": "Svartbäcken — fitted ash-veneer desk drawer detail",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_2ae7e04455b34a878859ab3d7ae97bf4~mv2.png",
+      "sources": [
+        "https://www.livingin.se/snickeri"
+      ],
+      "id": "falhagen-bunk-bed",
+      "description": "Fålhagen — custom MDF bunk bed with storage drawers",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_754d33cdcef84af4bcb00fdfe5537965~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-bedroom-before",
+      "description": "Full styling — empty bedroom before",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_ae7886e8b4d54ab4bab4d9771e374fe4~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-bedroom-after",
+      "description": "Full styling — bedroom after",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_3500f878424a4231a438b417175afe60~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-living-before",
+      "description": "Partial styling — living room before",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_e86f2205762946c3a8e215e87096ab81~mv2.png",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-office-before",
+      "description": "Partial styling — office before",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_679933d64ce349dda26eba6108562698~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/homestyling"
+      ],
+      "id": "homestyling-office-after",
+      "description": "Partial styling — office after",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_065188b816e34e2887e48b4ca2ed530c~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-kitchen-after",
+      "description": "Renovated kitchen after, with tall island adjusted to client height",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_48a8b1b5763342649f0d2df1b1b1d953~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-kitchen-before",
+      "description": "Kitchen before renovation",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_8830257c770c4a0a9b212f290fc423cf~mv2.png",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-window-living",
+      "description": "Living room with warm rust sofa and windows",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_b5833be78d2b41288f1fca41d1caa26f~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-glass-meeting-room",
+      "description": "Glass meeting room with warm textiles",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_c56d0e26c48943eba4ce28df7d7fd9e4~mv2.png",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-tassel-textiles",
+      "description": "Blue textiles and gold tassel trim detail",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_1ec9bec8b0e84862ae38a736b6845fa9~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-kitchen-island",
+      "description": "White kitchen island with warm pendant lights",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_53d86ad71f6d4568a778913bc0692e0f~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-blue-moodboard",
+      "description": "Blue and grey fabric moodboard",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_78661b0695ad4e368abe9b53fc7a4e82~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-kitchen-detail",
+      "description": "Dark kitchen cabinet and styling detail",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_b3f9c979621d46c89a9e5f3feb115787~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-omegapoint",
+      "description": "Omegapoint — additional dining and social-space view",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_52672bb977554baba23c3cf0cd0d3da9~mv2.jpeg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-hallway",
+      "description": "Textured hallway and sheer curtain",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/2c21b6_329bdfa6dc644d8d962039614a11ce01~mv2.jpg",
+      "sources": [
+        "https://www.livingin.se/inspiration"
+      ],
+      "id": "inspiration-patterned-curtain",
+      "description": "Patterned curtains and sofa cushions",
+      "provenance": "Original asset hosted by Wix and embedded on LivingIn source website. Downloaded without changes.",
+      "photographer_credit": null
+    }
+  ]
+}

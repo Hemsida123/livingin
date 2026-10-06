@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://livingin-uppsala-studio.carlzzon121.chatgpt.site/sitemap.xml
